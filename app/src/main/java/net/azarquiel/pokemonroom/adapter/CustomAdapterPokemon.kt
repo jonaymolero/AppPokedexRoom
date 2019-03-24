@@ -21,9 +21,6 @@ import org.jetbrains.anko.toast
 import org.jetbrains.anko.uiThread
 
 @Suppress("DEPRECATION")
-/**
- * Created by pacopulido on 9/10/18.
- */
 class CustomAdapterPokemon(val context: Context,
                     val layout: Int,
                     val typeViewModel:TypeViewModel

@@ -5,10 +5,6 @@ import android.util.Log
 import android.widget.Toast
 import java.io.*
 
-/**
- * Autor: Paco Pulido 8/11/2018
- */
-
 class Util {
     companion object {
         private lateinit var context: Context
